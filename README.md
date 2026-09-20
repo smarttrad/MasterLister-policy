@@ -1,6 +1,9 @@
-# MasterLister Privacy Policy
+# MasterLister Policies
 
-Public privacy-policy page for MasterLister, operated by Surfmart Trading.
+Public policy pages for MasterLister, operated by Surfmart Trading.
 
-The published policy is maintained to match the privacy policy shown in the
-MasterLister application.
+- [Privacy Policy](index.html)
+- [Terms of Service](terms-of-service.html)
+- [Compliance Policy](compliance.html)
+
+These pages are generated from the current policy documents used by the MasterLister application.
